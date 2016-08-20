@@ -22,19 +22,19 @@ The details of algorithm can be referred in wiki page [Perceptron](https://en.wi
 ##Verification
 We defined two kinds of verification testings. The simple one is along with class *SimpleTest.java*, which includes a two-dimension dataset. With this sample, you can explicitly see how the algorithm adjusts weights in each round. Below is the example.
 
-<img src="src\test\resources\images\1.jpg" width = "180" alt="Round 1" align=center />
-<img src="src\test\resources\images\2.jpg" width = "180" alt="Round 2" align=center />
-<img src="src\test\resources\images\3.jpg" width = "180" alt="Round 3" align=center />
-<img src="src\test\resources\images\4.jpg" width = "180" alt="Round 4" align=center />
-<img src="src\test\resources\images\5.jpg" width = "180" alt="Round 5" align=center />
-<br>
-<img src="src\test\resources\images\6.jpg" width = "180" alt="Round 6" align=center />
-<img src="src\test\resources\images\7.jpg" width = "180" alt="Round 7" align=center />
-<img src="src\test\resources\images\8.jpg" width = "180" alt="Round 8" align=center />
-<img src="src\test\resources\images\9.jpg" width = "180" alt="Round 9" align=center />
-<img src="src\test\resources\images\10.jpg" width = "180" alt="Round 10" align=center />
-<br>
-<img src="src\test\resources\images\11.jpg" width = "180" alt="Round 11" align=center />
+<img src="src\test\resources\images\1.jpg" width = "150" alt="Round 1" align=center />
+<img src="src\test\resources\images\2.jpg" width = "150" alt="Round 2" align=center />
+<img src="src\test\resources\images\3.jpg" width = "150" alt="Round 3" align=center />
+<img src="src\test\resources\images\4.jpg" width = "150" alt="Round 4" align=center />
+<img src="src\test\resources\images\5.jpg" width = "150" alt="Round 5" align=center />  
+
+<img src="src\test\resources\images\6.jpg" width = "150" alt="Round 6" align=center />
+<img src="src\test\resources\images\7.jpg" width = "150" alt="Round 7" align=center />
+<img src="src\test\resources\images\8.jpg" width = "150" alt="Round 8" align=center />
+<img src="src\test\resources\images\9.jpg" width = "150" alt="Round 9" align=center />
+<img src="src\test\resources\images\10.jpg" width = "150" alt="Round 10" align=center />  
+
+<img src="src\test\resources\images\11.jpg" width = "150" alt="Round 11" align=center />
 
 Finally, it finds a perfect linear classifier for the given dataset.
 
