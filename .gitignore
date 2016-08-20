@@ -1,0 +1,19 @@
+# eclipse
+.classpath
+.project
+.settings
+
+# IntelliJ Idea
+.idea
+*.iml
+
+# gradle
+.gradle
+build
+
+# other files
+bin
+target
+*.tmp
+*.log
+plugin.xml
