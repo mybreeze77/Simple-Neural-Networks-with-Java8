@@ -34,7 +34,7 @@ We defined two kinds of verification testings. The simple one is along with clas
 <img src="src\test\resources\images\9.jpg" width = "150" alt="Round 9" align=center />
 <img src="src\test\resources\images\10.jpg" width = "150" alt="Round 10" align=center />  
 
-<img src="src\test\resources\images\11.jpg" width = "150" alt="Round 11" align=center />
+<img src="src\test\resources\images\11.jpg" width = "300" alt="Round 11" align=center />
 
 Finally, it finds a perfect linear classifier for the given dataset.
 
